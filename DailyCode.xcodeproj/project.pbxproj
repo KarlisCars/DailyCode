@@ -13,6 +13,7 @@
 		6FF0ACFB2530AC2C00C02CD8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6FF0ACFA2530AC2C00C02CD8 /* Preview Assets.xcassets */; };
 		6FF0ACFD2530AC2C00C02CD8 /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FF0ACFC2530AC2C00C02CD8 /* Persistence.swift */; };
 		6FF0AD002530AC2C00C02CD8 /* DailyCode.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 6FF0ACFE2530AC2C00C02CD8 /* DailyCode.xcdatamodeld */; };
+		6FF0AD092530AD8600C02CD8 /* FirstStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6FF0AD082530AD8600C02CD8 /* FirstStoryboard.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		6FF0ACFC2530AC2C00C02CD8 /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		6FF0ACFF2530AC2C00C02CD8 /* DailyCode.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = DailyCode.xcdatamodel; sourceTree = "<group>"; };
 		6FF0AD012530AC2C00C02CD8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6FF0AD082530AD8600C02CD8 /* FirstStoryboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = FirstStoryboard.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +73,7 @@
 			isa = PBXGroup;
 			children = (
 				6FF0ACFA2530AC2C00C02CD8 /* Preview Assets.xcassets */,
+				6FF0AD082530AD8600C02CD8 /* FirstStoryboard.storyboard */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -132,6 +135,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6FF0AD092530AD8600C02CD8 /* FirstStoryboard.storyboard in Resources */,
 				6FF0ACFB2530AC2C00C02CD8 /* Preview Assets.xcassets in Resources */,
 				6FF0ACF82530AC2C00C02CD8 /* Assets.xcassets in Resources */,
 			);
